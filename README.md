@@ -21,6 +21,12 @@ meu README, que tem como objetivo apresentar uma documentação válida</p>
 
 ![nome](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=red)
 
+Conteúdo
 <ul> 
-    <li>Bem Vindo</li>
+    <li><a href="#">Bem Vindo</a>
+    </li>
 </ul>
+
+#### :rocket: Status
+ em construção
+
