@@ -30,3 +30,23 @@ Conteúdo
 #### :rocket: Status
  em construção
 
+#### Pré requisitos
+Abaixo segue os software 
+necessários utilizados na criação deste projeto:
+
+<ul>
+ <li>
+        <a href= https://code.visualstudio.com/>VSCode</a>
+    </li>
+    <li>
+        <a href= https://git-scm.com/>VSCode</a>
+    </li>
+</ul>
+
+   #### Mapa do Projeto
+   ...
+   └───src
+    ├───app
+    ├───interfaces
+    └───repository
+     ...
